@@ -1,0 +1,20 @@
+body {
+    background-color: peru;
+    text-align: center;
+    
+}
+
+h1 {
+    color: navy;
+}
+
+.friend {
+    background-color: maroon;
+    width: auto;
+    height: 400px;
+
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+}
