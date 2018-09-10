@@ -2,7 +2,7 @@ let friends = ["Robert", "Taryn", "Timon", "Alicia", "Akeia"];
 let lines;
 let count = 98;
 
-for (i = 0; i < friends.length; i++) {
+for (let i = 0; i < friends.length; i++) {
     console.log(friends[i].toUpperCase() + ":");
 
     for (lines = 99; lines > 2; lines--) {
